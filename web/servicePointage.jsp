@@ -58,6 +58,7 @@
                 String hdimanche = request.getParameter("hdimanche[" + i + "]");
                 ///////////////////////////////////////////////////////////////
                 String retLundi = request.getParameter("retlundi"+i+"");
+                String retLundi2 = request.getParameter("retlundi"+i+"");
                 String retMardi = request.getParameter("retmardi"+i+"");
                 String retMercredi = request.getParameter("retmercredi"+i+"");
                 String retJeudi = request.getParameter("retjeudi"+i+"");
